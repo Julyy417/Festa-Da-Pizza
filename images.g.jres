@@ -1,0 +1,13 @@
+{
+    "EM~exxT809P9NBm_MJip": {
+        "data": "003c000408010205001c000f0a006400f4010a000004000000000000000000000000000000000212000000040001200c001000012014001800012007001c00020a006400f40164000004000000000000000000000000000000000306001c0020000120",
+        "mimeType": "application/mkcd-song",
+        "displayName": "musiquinha",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
